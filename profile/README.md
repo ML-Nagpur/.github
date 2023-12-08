@@ -1,5 +1,6 @@
 # Welcome to ML Nagpur: Unleashing the Power of Machine Learning! 🚀
 
+[![](https://dcbadge.vercel.app/api/server/sJews9ERAK?style=flat)](https://discord.gg/sJews9ERAK)
 ## About Us 🌟
 
 ML Nagpur is a vibrant and dynamic open community centered in the heart of Nagpur, India 🍊. We are dedicated to exploring, learning, and pushing the boundaries of Machine Learning (ML) and Artificial Intelligence (AI). Our community is a melting pot of curious minds, passionate learners, and seasoned experts, all driven by the shared goal of advancing the field of ML.
