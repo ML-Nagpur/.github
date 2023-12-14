@@ -1,6 +1,8 @@
 # ML Nagpur: Unleashing the Power of ML! 🚀
 
 [![](https://dcbadge.vercel.app/api/server/sJews9ERAK?style=flat)](https://discord.gg/sJews9ERAK)
+[![](https://dcbadge.vercel.app/api/server/sJews9ERAK?style=flat)](https://www.instagram.com/ml.nagpur/)
+
 
 ## About Us 🌟
 
