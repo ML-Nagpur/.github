@@ -1,4 +1,4 @@
-# ML Nagpur: Unleashing the Power of ML! 🚀
+# ML Nagpur: Unleashing the Power of Machine Learning! 🚀
 
 [![](https://dcbadge.vercel.app/api/server/sJews9ERAK?style=flat)](https://discord.gg/sJews9ERAK)
 
