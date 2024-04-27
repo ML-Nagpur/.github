@@ -1,7 +1,6 @@
 # ML Nagpur! 🚀
 
-[![](https://dcbadge.vercel.app/api/server/sJews9ERAK?style=flat)](https://discord.gg/sJews9ERAK)
-
+\
 
 ## About Us 🌟
 
