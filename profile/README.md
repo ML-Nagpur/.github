@@ -1,26 +1,9 @@
 # ML Nagpur! 🚀
 
-\
+## About Us 
+Central India's Biggest Machine Learning Community for ML Enthusiasts in Nagpur! We're the beating heart of Machine Learning and Artificial Intelligence enthusiasts in Central India. Our mission is Simple: to Cultivate a thriving ecosystem where Knowledge, Skills, and Passion converge to drive innovation around Machine Learning. We are passionate about fostering a vibrant ecosystem for individuals interested in Machine Learning and Artificial Intelligence. Let's connect, collaborate, and create together. Together, we'll shape the future of technology!
 
-## About Us 🌟
 
-Welcome to ML Nagpur. We're Central India's Biggest Machine Learning Community! 🍊,Dedicated to pushing Machine Learning and Artificial Intelligence boundaries. We're a mix of Minds, Learners, and Experts.
-
-## Our Mission 🎯
-
-At ML Nagpur, we foster a collaborative environment for innovation and knowledge sharing. Democratizing ML education, empowering individuals to impact through ML applications.
-
-- 🤝 **Collaboration:** Share ideas, insights, and projects.
-- 📚 **Education:** Learning opportunities for all skill levels.
-- 🌐 **Community:** A supportive environment, inspiring, and uplifting each other at every possible aspect.
-
-## What We Offer!
-
-- 🔍 **Workshops and Webinars:** Regular sessions for all skill levels.
-- 🤖 **Hands-on Projects:** Dive into practical ML projects gaining practical knowledge 
-- 🗣️ **Guest Talks:** Inspiring insights from renowned speakers.
-- 💡 **Hackathons and Competitions:** Test your skills and collaborate.
-- 📝 **Blogs and Publications:** Share your thoughts and expertise.
 
 ## Join the Movement! 👥
 
